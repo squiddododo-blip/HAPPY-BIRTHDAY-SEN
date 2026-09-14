@@ -98,14 +98,14 @@ const reasons = [
   "you make forever sound kind of perfect",
   "YOU ARE THE BEST THING MY LIFE DID NOT SEE COMING",
   "you choose me in all the little ways",
-  "I LOVE YOU BECAUSE YOU FEEL LIKE HOME, EVEN FROM FAR AWAY 🏠🤍"
+  "I LOVE YOU BECAUSE YOU FEEL LIKE HOME, EVEN FROM FAR AWAY👉👈"
 ];
 
 const giftMessages = {
   camera: "This camera is for documenting every serve, every silly face, and every moment where you forgot you were being cute. main character behavior only.",
   tea: "A cozy tea date voucher: unlimited yapping, warm drinks, and me listening to the same story like it is brand new. very premium. very us.",
-  star: "You are my certified lucky star. Rare drop, impossible to replace, permanently pinned to my heart. honestly, the universe was cooking.",
-  voucher: "This forever pass gets you unlimited hugs, forehead kisses, emotional support, and one girlfriend who is absolutely not going anywhere. no expiration date."
+  star: "You are my certified lucky star. See what i did there.. lucky star reference😳😳 Rare drop, impossible to replace, permanently pinned to my heart. honestly, the universe was cooking.",
+  voucher: "This forever pass gets you unlimited hugs, forehead kisses, emotional support, and one girlfriend who is absolutely NOT going anywhere👀. no expiration date."
 };
 
 const reasonsGrid = document.querySelector('#reasons-grid');
